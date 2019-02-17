@@ -2,7 +2,21 @@ class Deck {
   List<Card> cards = [];
 
   Deck() {
-    var ranks = ['Ace', 'Two', 'Three', 'Four', 'Five'];
+    var ranks = [
+      'Ace',
+      'King',
+      'Queen',
+      'Jack',
+      'Ten',
+      'Nine',
+      'Eight',
+      'Seven',
+      'Six',
+      'Five',
+      'Four',
+      'Three',
+      'Two',
+    ];
     var suits = ['Diamonds', 'Hearts', 'Clubs', 'Spades'];
 
     for (var suit in suits) {
@@ -19,6 +33,10 @@ class Deck {
 
   shuffle() {
     cards.shuffle();
+  }
+
+  getLength() {
+    return cards.length;
   }
 
   cardsWithSuit(String suit) {
