@@ -1,4 +1,4 @@
-import 'package:shuffle/shuffle.dart';
+import 'package:hodlem/deck.dart';
 import 'package:test/test.dart';
 
 void main() {

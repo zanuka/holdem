@@ -1,5 +1,8 @@
-import 'package:shuffle/shuffle.dart' as shuffle;
+import 'package:hodlem/cards.dart' as cards;
 
 main(List<String> arguments) {
-  print('Hello world: ${shuffle.calculate()}!');
+  var deck = cards.Deck();
+
+  deck.removeCard('Diamonds', 'Ace');
+  print(deck);
 }
