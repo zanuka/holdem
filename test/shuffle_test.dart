@@ -1,4 +1,4 @@
-import 'package:hodlem/deck.dart';
+import 'package:holdem/deck.dart';
 import 'package:test/test.dart';
 
 void main() {

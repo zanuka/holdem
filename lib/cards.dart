@@ -4,18 +4,18 @@ class Deck {
   Deck() {
     var ranks = [
       'Ace',
-      'King',
-      'Queen',
-      'Jack',
-      'Ten',
-      'Nine',
-      'Eight',
-      'Seven',
-      'Six',
-      'Five',
-      'Four',
-      'Three',
       'Two',
+      'Three',
+      'Four',
+      'Five',
+      'Six',
+      'Seven',
+      'Eight',
+      'Nine',
+      'Ten',
+      'Jack',
+      'Queen',
+      'King',
     ];
     var suits = ['Diamonds', 'Hearts', 'Clubs', 'Spades'];
 
