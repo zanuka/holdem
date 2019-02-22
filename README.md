@@ -5,6 +5,7 @@ open source Hold 'em :: written in Dart
 ## inspiration
 
 [AlphaGo](https://deepmind.com/research/alphago/) - the first computer program to defeat a professional human Go player
+
 [Libratus](https://en.wikipedia.org/wiki/Libratus) - a bot made by Carnegie Mellon for playing heads up (1 vs 1) no limit hold’em.
 
 ## idea
