@@ -7,9 +7,14 @@ open source Hold'em :: written in Dart
  [Libratus](https://en.wikipedia.org/wiki/Libratus) - a bot made by Carnegie Mellon for playing heads up (1 vs 1) no limit hold’em.
 
 ```
+~/workspace/zanuka/holdem master*
 ❯ dart bin/main.dart
-[Ace of Diamonds, King of Diamonds, Queen of Diamonds, Jack of Diamonds, Ten of Diamonds, Nine of Diamonds, Eight of Diamonds, Seven of Diamonds, Six of Diamonds, Five of Diamonds, Four of Diamonds, Three of Diamonds, Two of Diamonds, Ace of Hearts, King of Hearts, Queen of Hearts, Jack of Hearts, Ten of Hearts, Nine of Hearts, Eight of Hearts, Seven of Hearts, Six of Hearts, Five of Hearts, Four of Hearts, Three of Hearts, Two of Hearts, Ace of Clubs, King of Clubs, Queen of Clubs, Jack of Clubs, Ten of Clubs, Nine of Clubs, Eight of Clubs, Seven of Clubs, Six of Clubs, Five of Clubs, Four of Clubs, Three of Clubs, Two of Clubs, Ace of Spades, King of Spades, Queen of Spades, Jack of Spades, Ten of Spades, Nine of Spades, Eight of Spades, Seven of Spades, Six of Spades, Five of Spades, Four of Spades, Three of Spades, Two of Spades]
+[Jack of Diamonds, Four of Diamonds, Six of Diamonds, Eight of Spades, Two of Clubs, Four of Clubs, Six of Spades, Two of Hearts, Queen of Hearts, Ten of Diamonds, Jack of Clubs, Six of Hearts, Four of Spades, Ten of Spades, Seven of Diamonds, Two of Spades, Queen of Spades, Nine of Diamonds, Ace of Hearts, Five of Hearts, King of Clubs, Nine of Clubs, Three of Clubs, Ten of Clubs, Seven of Clubs, Eight of Diamonds, King of Hearts, Queen of Diamonds, Seven of Hearts, Jack of Hearts, Six of Clubs, Three of Hearts, Ace of Diamonds, Jack of Spades, Three of Spades, Ace of Clubs, Ace of Spades, King of Diamonds, Nine of Spades, Nine of Hearts, Five of Diamonds, Ten of Hearts, Three of Diamonds, Eight of Clubs, Four of Hearts, Seven of Spades, Five of Spades, King of Spades, Two of Diamonds, Five of Clubs, Queen of Clubs, Eight of Hearts]
 52
+Diamonds = (Jack of Diamonds, Four of Diamonds, Six of Diamonds, ..., Three of Diamonds, Two of Diamonds)
+Hearts = (Two of Hearts, Queen of Hearts, Six of Hearts, ..., Four of Hearts, Eight of Hearts)
+Clubs = (Two of Clubs, Four of Clubs, Jack of Clubs, ..., Five of Clubs, Queen of Clubs)
+Spades = (Eight of Spades, Six of Spades, Four of Spades, ..., Five of Spades, King of Spades)
 ```
 
 Created from templates made available by Stagehand under a BSD-style
