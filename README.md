@@ -1,6 +1,10 @@
-# Texas Hodl'em
+# no limit texas hold 'em 
 
-open source Texas Hold'em Poker :: written in Dart
+open source Hold'em :: written in Dart
+
+## inspiration
+
+ [Libratus](https://en.wikipedia.org/wiki/Libratus) - a bot made by Carnegie Mellon for playing heads up (1 vs 1) no limit hold’em.
 
 ```
 ❯ dart bin/main.dart
