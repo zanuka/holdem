@@ -16,7 +16,7 @@ initial prototyping / sketching based on card examples from Stephen Grider's [Fl
 
 ## dartpad
 
-view the [public gist](https://dartpad.dartlang.org/49bde0c1ed780decc902f3d4d06d8f0c) on DartPad
+view the [public gist](https://dartpad.dartlang.org/7adee8b8fab2ef0daccbe7e31f7a0e94) on DartPad
 
 Created from templates made available by Stagehand under a BSD-style
 [license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
