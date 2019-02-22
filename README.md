@@ -8,6 +8,10 @@ open source Hold 'em :: written in Dart
 
 [Libratus](https://en.wikipedia.org/wiki/Libratus) - a bot made by Carnegie Mellon for playing heads up (1 vs 1) no limit hold’em.
 
+[Libratus Paper](https://www.cs.cmu.edu/~noamb/papers/17-IJCAI-Libratus.pdf) - by Noam Brown and Tuomas Sandholm :: Carnegie Mellon University
+
+[Safe and Nested Endgame Solving for Imperfect-Information Games](http://www.cs.cmu.edu/~noamb/papers/17-AAAI-Refinement.pdf) - by Noam Brown and Tuomas Sandholm :: Carnegie Mellon University
+
 ## idea
 
 create a new Hold 'em bot to be used in Dart projects (Flutter / AngularDart)
